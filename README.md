@@ -4,9 +4,9 @@ This is a Streamlit application that demonstrates the Central Limit Theorem (CLT
 
 ## Understanding the Central Limit Theorem:
 
-- **Normal Distribution:** Demonstrates how the sample mean distribution tends towards normality regardless of the underlying distribution.
+- **Normal Distribution:** Demonstrates how the sample mean distribution tends towards normality.
 - **Cauchy Distribution:** Shows how the CLT doesn't apply to all distributions, as the Cauchy distribution doesn't have a finite mean or variance. 
-- **Custom Distribution:** Allows users to input their own data to observe the CLT in action.
+- **Custom Distribution:** Allows users to input their own data to observe the CLT in action regardless of the population distribution.
 
 ## How to Launch:
 
