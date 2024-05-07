@@ -1,6 +1,6 @@
 # Central Limit Theorem Demonstration
 
-This is a Streamlit application that demonstrates the Central Limit Theorem (CLT). The CLT result states that the sampling distribution of the sample mean approaches a normal distribution as the sample size gets larger, regardless of the shape of the population distribution.
+This is a Streamlit application that demonstrates the Central Limit Theorem (CLT). The CLT result states that the sampling distribution of the sample mean approaches a normal distribution as the sample size gets larger, regardless of the shape of the population distribution (as long as the population distribution has finite second moment).
 
 ## Understanding the Central Limit Theorem:
 
