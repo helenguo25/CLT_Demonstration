@@ -15,7 +15,9 @@ This is a Streamlit application that demonstrates the Central Limit Theorem (CLT
 2. **Download the Script:** Copy the provided code into a Python script file (e.g., `clt_edu_tool.py`).
 
 3. **Launch the App:** Run the Streamlit app by executing the following commands in your terminal:
+   
    pip install streamlit
+
    streamlit run clt_demo.py
 
 ### 1. Select Population Distribution:
