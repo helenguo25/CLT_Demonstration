@@ -34,5 +34,5 @@ This is a Streamlit application that demonstrates the Central Limit Theorem (CLT
   - Enter your data separated by commas.
 
 ### 3. Generate:
-- Click the "Regenerate" or "Generate" button to generate sample means and observe the distribution of these means.
+- Click the "Regenerate" button to generate sample means and observe the distribution of these means.
 
